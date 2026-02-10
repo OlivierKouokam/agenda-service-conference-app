@@ -1,4 +1,4 @@
-#agenda-service-app
+# agenda-service-app
 
 [![Agenda Service - Service Pipeline](https://github.com/eazytraining/agenda-service-app/actions/workflows/agenda-service-service-pipeline.yaml/badge.svg)](https://github.com/OlivierKouokam/agenda-service-conference-app/blob/main/.github/workflows/agenda-service-service-pipeline.yaml)
 
