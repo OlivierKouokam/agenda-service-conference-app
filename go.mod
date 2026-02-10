@@ -1,5 +1,5 @@
 module github.com/salaboy/platforms-on-k8s/conference-application/agenda-service
-
+//test actions
 go 1.21
 
 toolchain go1.21.0
