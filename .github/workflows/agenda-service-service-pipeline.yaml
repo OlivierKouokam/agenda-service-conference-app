@@ -4,8 +4,6 @@ env:
 
 on:
   push:
-    paths:
-      - 'agenda-service/**'
     branches: ['main']
 
 jobs:
